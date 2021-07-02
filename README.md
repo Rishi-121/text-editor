@@ -1,0 +1,1 @@
+<img src="./editor.png" width="100%" alt="Rich Text Editor" />
